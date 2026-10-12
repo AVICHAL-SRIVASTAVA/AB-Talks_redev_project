@@ -1,3 +1,4 @@
+**Live app**: https://abtalks-redev-project.vercel.app
 # Build Your Edge
 
 # ABTalks — Vibe Coding Hackathon Master Build Prompt
@@ -1557,8 +1558,6 @@ Most importantly:
 > **ABTalks should make a student feel that every day they show up becomes visible proof of who they are as a builder.**
 
 This project was built with [Lovable](https://lovable.dev).
-
-**Live app**: https://public-proof-builders.lovable.app
 
 ## Build with Lovable
 
